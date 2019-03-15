@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FoodTracker/MealTableViewController.swift"
-            timestampString = "574304804.554395"
+            timestampString = "574331709.3369631"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "58"
-            endingLineNumber = "58"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
             landmarkName = "MealTableViewController"
             landmarkType = "3">
          </BreakpointContent>
